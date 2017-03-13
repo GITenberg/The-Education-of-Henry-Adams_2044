@@ -1,5 +1,8 @@
 _repo: The-Education-of-Henry-Adams_2044
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Adams, Henry
@@ -25,6 +28,8 @@ description: "The Education of Henry Adams is an autobiography that records the 
   \ it won the 1919 Pulitzer Prize. The Modern Library placed it first in a list of\
   \ the top 100 English-language nonfiction books of the 20th century.\n From Wikipedia\
   \ (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2044#The-Education-of-Henry-Adams
 gutenberg_bookshelf: Bestsellers, American, 1895-1923
 gutenberg_issued: '2000-01-01'
 gutenberg_type: Text
